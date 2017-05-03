@@ -25,7 +25,9 @@ SECRET_KEY = 'okdb3xr2mg+ni1!^0e=@zym!xy)z863jl&s7dyo8qg_-sd&u5+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+'djangoblogmkey.pythonanywhere.com'
+]
 
 
 # Application definition
